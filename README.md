@@ -1,6 +1,15 @@
 # CapstoneProject
 Scaler Capstone project
 
+This repo contains zip files to group all the services into one
+Original, individual links are here
+https://github.com/puneethsj/ProductServiceCapstone
+https://github.com/puneethsj/UserServiceCapStone
+https://github.com/puneethsj/PaymentService
+https://github.com/puneethsj/EmailService
+https://github.com/puneethsj/ServiceDiscovery
+
+
 This project focuses on developing an ecommerce website designed to simplify online shopping and enhance the user experience. The platform integrates essential functionalities such as user management, product catalog browsing, cart and checkout, order management, and secure payment processing. By leveraging modern technologies and best practices, the system aims to create a seamless and intuitive interface for users while ensuring data security and operational efficiency.
 The project addresses real-life applications in the retail industry by offering a digital platform that can scale to meet the needs of diverse businesses. It enhances accessibility for customers by providing features like secure registration, personalized profiles, and real-time order tracking. The inclusion of multiple payment options ensures user convenience, while secure authentication mechanisms guarantee data privacy. Overall, this project demonstrates how software tools can revolutionize traditional shopping experiences, making them more efficient and accessible across industries.
 
